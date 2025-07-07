@@ -1,4 +1,4 @@
-# GenAI-Diagnostic_Agent
+# Patent #US20240086445A1: GenAI-Diagnostic_Agent
 Patent: AI/NLP-powered diagnostic agent for Systems-on-Chip debugging and device failure remediation
 
 # 🛠️ Automated Troubleshooting for Integrated Circuits and SoC Platforms
