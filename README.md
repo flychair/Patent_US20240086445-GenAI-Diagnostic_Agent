@@ -5,7 +5,7 @@ Patent: AI/NLP-powered diagnostic agent for Systems-on-Chip debugging and device
 
 ## 📜 Patent Overview
 
-**Patent Title:** Automated Troubleshooting for Integrated Circuits and Platforms  
+**Patent Title:** Generative AI-Based Intelligent Troubleshooting and Recommendation Framework for Integrated Circuits and System-on-Chip Platforms
 **Patent Number:** [US20240086445A1](https://patents.google.com/patent/US20240086445A1/en)  
 **Inventor:** Murat Çakir (and co-inventors as listed)  
 **Filing Date:** 2022-09-23  
